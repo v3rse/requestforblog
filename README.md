@@ -6,7 +6,8 @@ This is a platform that will allow people to request for a blog post they would 
 Upvoting and downvotting of response will be a greate feature to add to this. This will gamify things a bit.
 
 Possible  __tech stack__ :
--Meteor
--MERN
+
+- Meteor
+- MERN
 
 Stretch feature: track hashtag `#requestforblog` and generate request.
